@@ -1,5 +1,6 @@
 body {
-    font-family: sans-serif;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.5em;
 }
 
 a {
@@ -35,11 +36,16 @@ header h1 {
     border-bottom: 2px solid rgb(0, 174, 255);
 }
 
-.project img, #aboutme img {
-    width: 250px;
+.project img {
+    width: 300px;
     float: left;
     margin-right: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
+}
+
+#aboutme img {
+    width: 1100px;
+    float: bottom;
 }
 
 .project h2, #aboutme h2 {
