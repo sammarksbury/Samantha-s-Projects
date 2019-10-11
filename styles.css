@@ -1,6 +1,6 @@
 body {
     font-family: 'Courier New', Courier, monospace;
-    font-size: 2em;
+    font-size: 1.5em;
 }
 
 a {
@@ -57,5 +57,5 @@ header h1 {
     font-size: 1em;
 }
 .bold{
-    font-weight: bold
+    font-weight: bold;
 }
