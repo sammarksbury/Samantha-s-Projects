@@ -53,9 +53,13 @@ header h1 {
     margin-bottom: 10px;
 }
 
-#aboutme h4{
+#aboutme h4 {
     font-size: 1em;
 }
-.bold{
+.bold {
     font-weight: bold;
+}
+
+.move {
+    float: right;
 }
