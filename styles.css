@@ -21,6 +21,10 @@ header h1 {
     font-size: 2em;
 }
 
+header nav ul Li {
+    display: inLine;
+}
+
 .clear {
     clear: both;
 }
@@ -37,6 +41,13 @@ header h1 {
 }
 
 .project img {
+    width: 300px;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 5px;
+}
+
+.app img {
     width: 300px;
     float: left;
     margin-right: 10px;
