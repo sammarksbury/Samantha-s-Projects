@@ -57,9 +57,13 @@ header nav ul Li {
 
 #aboutme img {
     width: 700px;
-    length: 900px;
     float: bottom;
     float: left;
+}
+
+#aboutme img.resize {
+      max-width:50%;
+      max-height:50%;
 }
 
 .project h2, #aboutme h2 {
