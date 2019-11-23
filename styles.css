@@ -59,6 +59,7 @@ header nav ul Li {
     width: 700px;
     float: bottom;
     float: left;
+    margin-bottom: 10px;
 }
 
 #aboutme img.resize {
