@@ -63,8 +63,8 @@ header nav ul Li {
 }
 
 #aboutme img.resize {
-      max-width:70%;
-      max-height:70%;
+      max-width:40%;
+      max-height:40%;
 }
 
 .project h2, #aboutme h2 {
@@ -78,6 +78,7 @@ header nav ul Li {
 
 #aboutme h4 {
     font-size: 1em;
+    margin-left: 10px;
 }
 .bold {
     font-weight: bold;
